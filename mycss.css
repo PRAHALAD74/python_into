@@ -1,0 +1,22 @@
+body { background-color: yellow }
+
+
+h1 { color: red;
+	 font-size:40px
+   }
+
+h2 { color: lightblue;
+	 }
+p {
+	color: green;
+	font-size: 20px;
+}
+
+ul{
+    color: blue;
+
+}
+img{
+	height: 200px;
+	width: 400px;
+}
